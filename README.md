@@ -1,18 +1,10 @@
 # hotel-bookings-analysis
 This repository contains an in-depth analysis of hotel bookings data, divided into several key sections including data cleaning, time series analysis, cancellations analysis, revenue analysis, guest segmentation, room analysis, agent analysis, car parking service analysis, and correlation analysis. The goal is to extract actionable insights and provide recommendations for hotel management.
-## Table of Contents
-
-- [Project Title and Description](#project-title-and-description)
-- [Table of Contents](#table-of-contents)
-- [Data](#data)
-- [Analysis Overview](#analysis-overview)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Data
 
 The dataset used in this project is `hotel_bookings.csv`. It contains features related to hotel bookings such as lead time, arrival date, number of guests, booking status, and more.
+
+Source: (https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
 
 ## Analysis Overview
 
